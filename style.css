@@ -26,13 +26,13 @@ h1 {
     flex-direction: column;
 }
 
-.distancia3 {
+.container2 {
     width: 20%;
     display: flex;
     justify-content: center;
 }
 
-.distancia2 {
+.container3 {
     width: 20%;
     display: flex;
     justify-content: flex-end;
